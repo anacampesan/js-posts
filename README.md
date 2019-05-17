@@ -1,0 +1,7 @@
+- [ ] Template literals
+- [ ] Local storage
+- [ ] Array destructuring
+- [ ] Nodelist and HTML collection + looping through them
+- [x] Events + custom events
+- [ ] Closures
+- [ ] Composition
